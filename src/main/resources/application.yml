@@ -1,0 +1,12 @@
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:28080/eureka/
+    register-with-eureka: false
+    fetch-registry: false
+spring:
+  application:
+    name: sc-eureka
+server:
+  port: 28080
+
