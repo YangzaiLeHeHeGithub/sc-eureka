@@ -18,5 +18,13 @@ public class MoceClass {
     public static String  methodB(String userName){
         return userName;
     }
+    public static String  methodC(String userName){
+        return userName;
+    }
+
+    public static String  methodD(String userName){
+        return userName;
+    }
 
 }
+
