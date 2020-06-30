@@ -21,6 +21,7 @@ import static java.util.stream.Collectors.toList;
 public class CollectToMap {
 
     public static void main(String[] args) {
+        //003
 //        User user1 = new User();
 //        user1.setUsername("张三");
 //        user1.setAge(0);
